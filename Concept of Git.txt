@@ -1,0 +1,42 @@
+Concept of Git and various terms related to it.
+* Git:
+Git is a distributed version control system that tracks changes in code, enabling collaboration among developers. It supports branching, merging, and provides a history of code changes.
+
+* GitHub:
+GitHub is a web-based platform that hosts Git repositories. It adds collaboration features like pull requests, issue tracking, and a web interface for managing and sharing code. It's widely used for code hosting and project collaboration.
+
+* Version Control System (VCS):
+A system that tracks changes to files over time, allowing you to revisit and revert to specific versions. Git is a distributed VCS, meaning each developer has a complete project history on their machine.
+
+* Repository (Repo):
+A repository is a storage space for your project files and their entire history. It can be local on your machine or hosted remotely. Repositories can be public or private.
+
+* Commit:
+A commit is like a snapshot of your project at a particular moment. It captures changes made to one or more files and is identified by a unique hash.
+
+* Branch:
+A branch is a divergent path of development. Creating branches allows you to work on features or fixes separately. Branches can be merged back into the main branch when ready.
+
+* Merge:
+Merging combines changes from different branches. After completing work on a feature branch, you can merge it back into the main branch to integrate those changes.
+
+* Pull Request (PR):
+A pull request is a way to propose changes. It's often used for collaboration, allowing developers to review and discuss changes before merging them into the main codebase.
+
+* Clone:
+Cloning a repository means making a local copy on your machine. It includes the entire project history and is typically the first step when starting to work on a project.
+
+* Fetch:
+Fetching retrieves changes from a remote repository to your local machine but doesn't automatically merge them. It's useful for staying updated without altering your working branch.
+
+* Pull:
+Pulling is a combination of fetching changes and merging them into your current branch. It's a convenient way to update your local copy with changes from a remote repository.
+
+* Push:
+Pushing involves uploading your local changes to a remote repository, making them accessible to others. It's how you share your work and update the central repository.
+
+* Remote:
+A remote is a version of the repository hosted elsewhere, like on GitHub or GitLab. It serves as a centralized point for collaboration.
+
+* Conflict:
+Conflicts happen when Git can't automatically merge changes from different branches. They require manual resolution to reconcile conflicting modifications.
