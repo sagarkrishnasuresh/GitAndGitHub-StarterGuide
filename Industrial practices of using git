@@ -1,0 +1,30 @@
+1. Focus on workflows:
+
+Feature branches: Isolated development of new features.
+Release branches: Controlled rollouts of major/minor versions.
+Gitflow: Structured framework for efficient branching.
+
+2. Tools for collaboration:
+
+Pull requests: Code review before merging changes.
+CI/CD pipelines: Automated builds, tests, and deployments.
+Issue trackers: Organize tasks and link code changes to requirements.
+
+3. Security and control:
+
+User roles & permissions: Granular access to branches and repositories.
+Two-factor authentication: Extra layer of security.
+Code signing: Verify code integrity before deployment.
+
+4. Automation and standardization:
+
+Git hooks: Automate pre/post commit tasks.
+Git templates: Pre-configured repositories for consistency.
+Automated testing: Continuous validation of code quality and compatibility.
+
+5. Adaptation is key: Choose the workflow and tools that suit your team and project.
+
+Resources:
+Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials
+GitLab Best Practices: https://about.gitlab.com/topics/version-control/version-control-best-practices/
+NGINX, Inc. Git Workflows: https://esc.sh/blog/setting-up-a-git-http-server-with-nginx/
