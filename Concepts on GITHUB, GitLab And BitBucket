@@ -1,0 +1,23 @@
+GitHub, launched in 2008 and now owned by Microsoft, is a prominent git-based repository hosting platform exclusively for Git VCS. It's free for public repositories, requiring payment for private ones. GitHub, written in Ruby and Erlang, offers features like Gists for code snippets, a Wiki, and an issues tracking system. Access permissions for repositories include read and write distinctions. As the largest repository host with over 38 million projects, GitHub supports an online VS Code editor and provides features such as commit history, various graphs, pull requests with code review, issue tracking, and email notifications. There are size limitations, restricting individual file sizes to 100 MB while allowing repositories to host up to 2 GB of information.
+
+
+GitLab, initiated as a project in 2011 and launching GitLab.com in 2012, serves as an alternative repository management solution. Similar to GitHub, it offers free private repositories, a feature distinct from GitHub. GitLab Community Edition is both free and open-source, allowing users to set and modify permissions based on roles. Unlike GitHub, GitLab permits attaching any file to an issue. The source code for GitLab Community Edition is available on their website. Despite a relatively slower interface, GitLab supports Git import and boasts features like an issue tracker, commit graph, reporting tools, creating issues directly from the Issue Board, and facilitates easy migration from other providers.
+
+
+Bitbucket, launched in 2008, initially supported Mercurial projects and was acquired by Atlassian in 2010. By 2011, it began supporting Git hosting. While not open source, the self-hosted version offers access to the full source code. Written in Python using the Django web framework, Bitbucket provides free accounts with unlimited private repositories. It allows the import of existing Git projects and boasts features like issue tracking, REST APIs for third-party applications, code search, pull requests with code review, and the ability to share code snippets. These features make Bitbucket a comprehensive version control and project management platform for developers and teams.
+
+
+Choosing between GitHub, GitLab, and Bitbucket depends on your specific needs and preferences.
+
+If you're primarily contributing to open source projects and want to showcase your work, GitHub is a popular choice. An active GitHub account can serve as an online portfolio.
+
+If you're focused on private repositories, GitLab is a strong option. It's free for private repositories and is widely used by organizations, especially in conjunction with services like Digital Ocean.
+
+Bitbucket is also suitable for private repositories, and it's popular among organizations. It offers free private repositories, making it an attractive choice. Bitbucket Cloud supports Mercurial, and its user-friendly interface is appreciated by many.
+
+
+In summary:
+
+Choose GitHub for open source contributions and building a personal portfolio.
+Opt for GitLab if you need free private repositories and are working with services like Digital Ocean.
+Consider Bitbucket, especially for organizations, due to its user-friendly interface, free private repositories, and Mercurial support.
