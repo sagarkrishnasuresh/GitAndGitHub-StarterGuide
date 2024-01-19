@@ -26,9 +26,9 @@ A Git repository is a central storage location for managing and tracking changes
 ### What is Cloning ?
 If a project has already been set up in a central repository, the git clone command is the most common way for users to obtain a development copy.Once a developer has obtained a working copy, all version control operations and collaborations are managed through their local repository.
 
-### Commiting and pushing 
- Committing - Think of a git commit as a snapshot that make up a file system. When you commit, you save your project, and Git records the work by taking a snapshot of the metadata and saving it in the local repository.
- Pushing - When all the updates are completed at the local level. When you’re ready to share them with other developers, you move, or “push” the changes to the remote repository. You actively push the commits using the Git push command. The commits are now viewable by other developers in your collaboration circle or to the public at large.
+### Commit and push 
+ Commit - Think of a git commit as a snapshot that make up a file system. When you commit, you save your project, and Git records the work by taking a snapshot of the metadata and saving it in the local repository.
+ Push - When all the updates are completed at the local level. When you’re ready to share them with other developers, you move, or “push” the changes to the remote repository. You actively push the commits using the Git push command. The commits are now viewable by other developers in your collaboration circle or to the public at large.
 
 
 ## sources
