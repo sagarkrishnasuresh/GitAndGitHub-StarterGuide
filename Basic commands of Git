@@ -1,27 +1,27 @@
-Setting Up & Initialization:
+#Setting Up & Initialization:
 
-git init: Creates a new Git repository in the current directory.
-git clone <URL>: Clones an existing Git repository from a remote URL to your local machine.
-git config [key] [value]: Sets global or local configuration options (e.g., username, email).
+   git init: Creates a new Git repository in the current directory.
+   git clone <URL>: Clones an existing Git repository from a remote URL to your local machine.
+   git config [key] [value]: Sets global or local configuration options (e.g., username, email).
 
-Tracking Changes:
+#Tracking Changes:
 
-git status: Shows the current status of tracked and untracked files in your repository.
-git add <file>: Adds a specific file to the staging area for the next commit.
-git add .: Adds all tracked files in the current directory to the staging area.
+   git status: Shows the current status of tracked and untracked files in your repository.
+   git add <file>: Adds a specific file to the staging area for the next commit.
+   git add .: Adds all tracked files in the current directory to the staging area.
 
-Committing Changes:
+#Committing Changes:
 
-git commit -m "<message>": Commits the staged changes with a descriptive message.
+  git commit -m "<message>": Commits the staged changes with a descriptive message.
 
-Branching & Merging:
+#Branching & Merging:
 
-git branch: Shows a list of existing branches in your repository.
-git checkout -b <branch_name>: Creates and switches to a new branch.
-git checkout <branch_name>: Switches to an existing branch.
-git merge <branch_name>: Merges the changes from another branch into your current branch.
+  git branch: Shows a list of existing branches in your repository.
+  git checkout -b <branch_name>: Creates and switches to a new branch.
+  git checkout <branch_name>: Switches to an existing branch.
+  git merge <branch_name>: Merges the changes from another branch into your current branch.
 
-Viewing History:
+#Viewing History:
 
-git log: Shows the commit history of your repository.
-git show <commit_hash>: Shows the details of a specific commit.
+  git log: Shows the commit history of your repository.
+  git show <commit_hash>: Shows the details of a specific commit.
