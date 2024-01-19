@@ -48,8 +48,9 @@ Conflicts happen when Git can't automatically merge changes from different branc
 
 
 ## sources
-1.	[https://www.pluralsight.com/resources/blog/cloud/git-terms-explained](https://www.simplilearn.com/tutorials/git-tutorial/what-is-a-git-repository#:~:text=A%20Git%20repository%20is%20a,work%20on%20a%20project%20simultaneously.)
-2.	[https://opensource.com/article/22/11/git-concepts4.](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository.)
-3.	[	https://www.edureka.co/blog/git-commands-with-example/](https://blog.mergify.com/git-commit-vs-push-whats-the-difference/#:~:text=You%20have%20to%20create%20or,becomes%20available%20to%20all%20developers.)
+1.	https://www.simplilearn.com/tutorials/git-tutorial/what-is-a-git-repository#:~:text=A%20Git%20repository%20is%20a,work%20on%20a%20project%20simultaneously.
+2.	https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository.
+3.	https://blog.mergify.com/git-commit-vs-push-whats-the-difference/#:~:text=You%20have%20to%20create%20or,becomes%20available%20to%20all%20developers.
 4.	https://www.w3schools.com/git/git_github_flow.asp?remote=github
 5.	Chat GPT
+6.	Google Bard
