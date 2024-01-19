@@ -25,3 +25,5 @@
 
   git log: Shows the commit history of your repository.
   git show <commit_hash>: Shows the details of a specific commit.
+
+source: Google Bard
